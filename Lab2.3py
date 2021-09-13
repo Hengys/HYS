@@ -1,0 +1,8 @@
+#Student ID: 1201201639
+#Student Name: Heng Yee Siang
+
+
+Celsius=float(input("please enter the temperature in Celcius "))
+Fahrenheit = Celsius *9/5+32
+
+print("{:.2f} Celcius is equivalant {:.2f} Fahrenheit ".format(Celsius,Fahrenheit))
